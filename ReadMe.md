@@ -1,4 +1,4 @@
-# DSA Question With Solutions
+# DSA Questions With Solutions
 
 ## Arrays
 
