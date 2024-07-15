@@ -1,11 +1,11 @@
 # DSA Questions With Solutions
 
 ## GFG DSA Self Paced Course
+### Mathematics
 * Question 1: Given an integral number N. The task is to find the count of digits present in this number.
 [Solution](src/gfgCourse/CountNumberOfDigits.java)
 * Question 2: Find a number is Palindrome or not.
 [Solution](src/gfgCourse/Palindrome.java)
-### Mathematics
 
 ## Arrays
 
