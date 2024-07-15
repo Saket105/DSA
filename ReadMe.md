@@ -7,6 +7,8 @@
 [Solution](src/gfgCourse/CountNumberOfDigits.java)
 * Question 2: Find a number is Palindrome or not.
 [Solution](src/gfgCourse/Palindrome.java)
+* Question 3: Given a number N, find the factorial of that number N.
+[Solution](src/gfgCourse/Factorial.java)
 
 ## Arrays
 
