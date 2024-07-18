@@ -13,6 +13,8 @@
 [Solution](src/gfgCourse/TrailingZeroes.java)
 * Question 5: Find the GCD of 2 numbers
 [Solution](src/gfgCourse/GcdOfNumber.java)
+* Question 6: Program to find the Prime Number.
+[Solution](src/gfgCourse/PrimeNumber.java)
 
 ## Arrays
 
