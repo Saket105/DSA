@@ -9,6 +9,10 @@
 [Solution](src/gfgCourse/Palindrome.java)
 * Question 3: Given a number N, find the factorial of that number N.
 [Solution](src/gfgCourse/Factorial.java)
+* Question 4: Given a number find the Trailing Zeros in the factorial of a number.
+[Solution](src/gfgCourse/TrailingZeroes.java)
+* Question 5: Find the GCD of 2 numbers
+[Solution](src/gfgCourse/GcdOfNumber.java)
 
 ## Arrays
 
