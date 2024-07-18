@@ -11,7 +11,8 @@ package gfgCourse;
 * */
 public class TrailingZeroes {
     public static void main(String[] args) {
-        System.out.println(trailingZeroes(100));
+//        System.out.println(trailingZeroes(100));
+        System.out.println(optimizedSolution(100));
     }
     //TODO: Brute Force Approach
     public static int trailingZeroes(int n){
@@ -26,5 +27,14 @@ public class TrailingZeroes {
             fact = fact/10;
         }
         return res;
+    }
+
+    //TODO: Optimized Approach
+    public static int optimizedSolution(int n){
+        int count = 0;
+        for (int i=5;i<=n;i=i*5){
+            count = count+ (n/i);
+        }
+        return count;
     }
 }
