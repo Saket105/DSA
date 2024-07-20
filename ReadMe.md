@@ -17,6 +17,8 @@
 [Solution](src/gfgCourse/mathematics/PrimeNumber.java)
 * Question 7: Program to print divisor of a number.
 [Solution](src/gfgCourse/mathematics/DivisorNumber.java)
+* Question 8: Print all the prime numbers smaller than or equal to N.
+[Solution](src/gfgCourse/mathematics/PrintPrimeNumbers.java)
 
 ## Arrays
 
