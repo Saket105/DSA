@@ -1,4 +1,4 @@
-package gfgCourse;
+package gfgCourse.mathematics;
 
 /*
 * Given an integral number N. The task is to find the count of digits present in this number.

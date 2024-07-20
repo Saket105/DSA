@@ -1,4 +1,4 @@
-package gfgCourse;
+package gfgCourse.mathematics;
 
 /*
 * Given a number N, find the factorial of that number N.

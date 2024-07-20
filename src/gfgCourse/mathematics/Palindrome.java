@@ -1,4 +1,4 @@
-package gfgCourse;
+package gfgCourse.mathematics;
 
 /*
 * Find a number is Palindrome or not.

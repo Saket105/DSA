@@ -1,4 +1,4 @@
-package gfgCourse;
+package gfgCourse.mathematics;
 
 /*
 * Program to find the Prime Number.

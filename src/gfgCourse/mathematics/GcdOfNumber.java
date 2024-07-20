@@ -1,4 +1,4 @@
-package gfgCourse;
+package gfgCourse.mathematics;
 
 /*
 * Find GCD of two numbers:

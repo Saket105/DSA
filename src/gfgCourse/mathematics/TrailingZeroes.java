@@ -1,4 +1,4 @@
-package gfgCourse;
+package gfgCourse.mathematics;
 /*
 * Given a number find the Trailing Zeros in the factorial of a number.
 * Example 1: I/P: N = 5
