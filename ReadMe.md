@@ -29,3 +29,5 @@
 ### Mathematics
 * Question 1: Reverse the number
 [Solution](src/fraz/ReverseNumber.java)
+* Question 2: Program to add binary String.
+[Solution](src/fraz/AddBinary.java)
