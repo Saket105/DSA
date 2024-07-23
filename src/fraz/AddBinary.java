@@ -9,6 +9,7 @@ public class AddBinary {
         System.out.println(addBinary("11","1"));
     }
 
+    //TODO: add binary method
     public static String addBinary(String A, String B) {
         // initialize the ith index
         int i = A.length()-1;
