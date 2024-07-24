@@ -33,3 +33,5 @@
 [Solution](src/fraz/AddBinary.java)
 * Question 3: Given an integer x, return true if x is a palindrome, and false otherwise.
 [Solution](src/fraz/Palindrome.java)
+* Question 4: Given an integer array nums of size n, return the minimum number of moves required to make all array elements equal.
+[Solution](src/fraz/MinimumMoves.java)
