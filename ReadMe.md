@@ -31,3 +31,5 @@
 [Solution](src/fraz/ReverseNumber.java)
 * Question 2: Program to add binary String.
 [Solution](src/fraz/AddBinary.java)
+* Question 3: Given an integer x, return true if x is a palindrome, and false otherwise.
+[Solution](src/fraz/Palindrome.java)
