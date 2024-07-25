@@ -50,3 +50,5 @@
 [Solution](src/striverAtoZ/AllDivisor.java)
 * Question 6: Program to find the Prime Number.
 [Solution](src/gfgCourse/mathematics/PrimeNumber.java)
+* Question 7: Find the GCD of 2 numbers
+[Solution](src/gfgCourse/mathematics/GcdOfNumber.java)
