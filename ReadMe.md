@@ -40,3 +40,13 @@
 ### Mathematics
 * Question 1: Given an integer N, return the number of digits in N.
 [Solution](src/striverAtoZ/CountDigits.java)
+* Question 1: Reverse the number
+[Solution](src/fraz/ReverseNumber.java)
+* Question 3: Given an integer x, return true if x is a palindrome, and false otherwise.
+[Solution](src/fraz/Palindrome.java)
+* Question 4: Given an integer N, return true it is an Armstrong number otherwise return false.
+[Solution](src/striverAtoZ/ArmStrongNumber.java)
+* Question 5: Given an integer N, return all divisors of N.
+[Solution](src/striverAtoZ/AllDivisor.java)
+* Question 6: Program to find the Prime Number.
+[Solution](src/gfgCourse/mathematics/PrimeNumber.java)
