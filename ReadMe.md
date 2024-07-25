@@ -35,3 +35,8 @@
 [Solution](src/fraz/Palindrome.java)
 * Question 4: Given an integer array nums of size n, return the minimum number of moves required to make all array elements equal.
 [Solution](src/fraz/MinimumMoves.java)
+
+## Striver A-Z DSA Sheet
+### Mathematics
+* Question 1: Given an integer N, return the number of digits in N.
+[Solution](src/striverAtoZ/CountDigits.java)
