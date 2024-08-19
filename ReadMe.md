@@ -39,15 +39,15 @@
 ## Striver A-Z DSA Sheet
 ### Mathematics
 * Question 1: Given an integer N, return the number of digits in N.
-[Solution](src/striverAtoZ/CountDigits.java)
+[Solution](src/striverAtoZ/math/CountDigits.java)
 * Question 1: Reverse the number
 [Solution](src/fraz/ReverseNumber.java)
 * Question 3: Given an integer x, return true if x is a palindrome, and false otherwise.
 [Solution](src/fraz/Palindrome.java)
 * Question 4: Given an integer N, return true it is an Armstrong number otherwise return false.
-[Solution](src/striverAtoZ/ArmStrongNumber.java)
+[Solution](src/striverAtoZ/math/ArmStrongNumber.java)
 * Question 5: Given an integer N, return all divisors of N.
-[Solution](src/striverAtoZ/AllDivisor.java)
+[Solution](src/striverAtoZ/math/AllDivisor.java)
 * Question 6: Program to find the Prime Number.
 [Solution](src/gfgCourse/mathematics/PrimeNumber.java)
 * Question 7: Find the GCD of 2 numbers

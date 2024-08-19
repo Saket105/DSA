@@ -1,4 +1,4 @@
-package striverAtoZ;
+package striverAtoZ.math;
 
 import java.util.ArrayList;
 

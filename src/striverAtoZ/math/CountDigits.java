@@ -1,4 +1,4 @@
-package striverAtoZ;
+package striverAtoZ.math;
 
 /*
 * Given an integer N, return the number of digits in N.
