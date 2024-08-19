@@ -52,3 +52,67 @@
 [Solution](src/gfgCourse/mathematics/PrimeNumber.java)
 * Question 7: Find the GCD of 2 numbers
 [Solution](src/gfgCourse/mathematics/GcdOfNumber.java)
+
+### Pattern
+* Pattern 1: Given an integer N, print the following pattern.
+[Solution](src/striverAtoZ/pattern/FirstPattern.java)
+```
+* * * *
+* * * *
+* * * *
+* * * *
+```
+* Pattern 2: Given an integer N, print the following pattern.
+[Solution](src/striverAtoZ/pattern/SecondPattern.java)
+```
+* 
+* *
+* * *
+* * * *
+```
+
+* Pattern 3: Given an integer N, print the following pattern.
+[Solution](src/striverAtoZ/pattern/ThirdPattern.java)
+```
+1
+1 2
+1 2 3
+1 2 3 4
+1 2 3 4 5
+```
+
+* Pattern 4: Given an integer N, print the following pattern.
+[Solution](src/striverAtoZ/pattern/Fourth.java)
+```
+1
+2 2
+3 3 3
+4 4 4 4
+5 5 5 5 5
+```
+
+* Pattern 5: Given an integer N, print the following pattern.
+[Solution](src/striverAtoZ/pattern/FifthPattern.java)
+```
+$ $ $ $ $
+$ $ $ $
+$ $ $
+$ $
+$
+```
+* Pattern 6: Given an integer N, print the following pattern.
+[Solution](src/striverAtoZ/pattern/SixthPattern.java)
+```
+1 2 3 4 5
+1 2 3 4
+1 2 3
+1 2
+1
+```
+* Pattern 7: Given an integer N, print the following pattern.
+[Solution](src/striverAtoZ/pattern/SeventhPattern.java)
+```
+    $
+  $ $ $
+$ $ $ $ $
+```
