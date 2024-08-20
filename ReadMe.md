@@ -116,3 +116,79 @@ $
   $ $ $
 $ $ $ $ $
 ```
+* Pattern 8: Given an integer N, print the following pattern.
+[Solution](src/striverAtoZ/pattern/Eighth.java)
+```
+$ $ $ $ $ $ $
+  $ $ $ $ $  
+    $ $ $   
+      $
+```
+* Pattern 9: Given an integer N, print the following pattern.
+[Solution](src/striverAtoZ/pattern/Ninth.java)
+```
+1
+0 1
+1 0 1
+0 1 0 1
+```
+* Pattern 10: Given an integer N, print the following pattern.
+[Solution](src/striverAtoZ/pattern/Tenth.java)
+```
+1         1
+1 2     2 1
+1 2 3 3 2 1
+```
+* Pattern 11: Given an integer N, print the following pattern.
+[Solution](src/striverAtoZ/pattern/Eleventh.java)
+```
+1
+2 3
+4 5 6
+7 8 9 10
+```
+* Pattern 12: Given an integer N, print the following pattern.
+[Solution](src/striverAtoZ/pattern/Twelveth.java)
+```
+A
+A B
+A B C
+A B C D
+A B C D E
+```
+* Pattern 13: Given an integer N, print the following pattern.
+[Solution](src/striverAtoZ/pattern/Thirteen.java)
+```
+A B C D E
+A B C D
+A B C
+A B
+A
+```
+* Pattern 14: Given an integer N, print the following pattern.
+[Solution](src/striverAtoZ/pattern/Fourteen.java)
+```
+A
+B B
+C C C
+D D D D
+E E E E E
+```
+* Pattern 15: Given an integer N, print the following pattern.
+[Solution](src/striverAtoZ/pattern/Fifteen.java)
+```
+    A
+   ABA
+  ABCBA
+ ABCDCBA
+ABCDEDCBA
+```
+* Pattern 16: Given an integer N, print the following pattern.
+[Solution](src/striverAtoZ/pattern/Sixteen.java)
+```
+E
+D E
+C D E
+B C D E
+A B C D E
+```
