@@ -192,3 +192,21 @@ C D E
 B C D E
 A B C D E
 ```
+
+### Recursion
+* Question 1: Given a number ‘N’, find out the sum of the first N natural numbers.
+[Solution](src/striverAtoZ/recursion/SumOfNnumbers.java)
+* Question 2: Print 1-N using recursion
+[Solution](src/striverAtoZ/recursion/Print1ToN.java)
+* Question 3: Print N-1 using recursion
+[Solution](src/striverAtoZ/recursion/PrintNto1.java)
+* Question 4: Print name N times using recursion
+[Solution](src/striverAtoZ/recursion/PrintName.java)
+* Question 5: Given a number X,  print its factorial.
+[Solution](src/striverAtoZ/recursion/Factorial.java)
+* Question 6: You are given an array. The task is to reverse the array and print it using recursion
+[Solution](src/striverAtoZ/recursion/ReverseArray.java)
+* Question 7: Given a string, check if the string is palindrome or not. A string is said to be palindrome if the reverse of the string is the same as the string.
+[Solution](src/striverAtoZ/recursion/Palindrome.java)
+* Question 8: Given an integer N. Print the Fibonacci series up to the Nth term.
+[Solution](src/striverAtoZ/recursion/Fibonacci.java)
