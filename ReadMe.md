@@ -210,3 +210,26 @@ A B C D E
 [Solution](src/striverAtoZ/recursion/Palindrome.java)
 * Question 8: Given an integer N. Print the Fibonacci series up to the Nth term.
 [Solution](src/striverAtoZ/recursion/Fibonacci.java)
+
+
+### Hashing
+* Question : Given an array, we have found the number of occurrences of each element in the array.
+[Solution](src/striverAtoZ/hashing/FirstProblem.java)
+
+### Sorting
+* Question 1: Given an array of N integers, write a program to implement the Bubble sort algorithm.
+[Solution](src/striverAtoZ/sorting/BubbleSort.java)
+* Question 2: Given an array of N integers, write a program to implement the Selection sort algorithm.
+  [Solution](src/striverAtoZ/sorting/SelectionSort.java)
+* Question 3: Given an array of N integers, write a program to implement the Insertion sort algorithm.
+  [Solution](src/striverAtoZ/sorting/InsertionSort.java)
+* Question 4: Given an array of N integers, write a program to implement the Merge sort algorithm.
+  [Solution](src/striverAtoZ/sorting/MergeSort.java)
+* Question 5: Given an array of N integers, write a program to implement the Quick sort algorithm.
+  [Solution](src/striverAtoZ/sorting/QuickSort.java)
+* Question 6: Given an array of N integers, write a program to implement the Recursive Bubble sort algorithm.
+  [Solution](src/striverAtoZ/sorting/RecursiveBubbleSort.java)
+
+### Arrays
+* Question 1: Given an array, we have to find the largest element in the array.
+[Solution](src/striverAtoZ/array/LargestElement.java)
