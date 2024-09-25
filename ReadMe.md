@@ -233,3 +233,23 @@ A B C D E
 ### Arrays
 * Question 1: Given an array, we have to find the largest element in the array.
 [Solution](src/striverAtoZ/array/LargestElement.java)
+* Question 2: Given an array, find the second smallest and second largest element in the array.
+[Solution](src/striverAtoZ/array/SecondLargest.java)
+* Question 3: Given an array of size n, write a program to check if the given array is sorted in (ascending / Increasing / Non-decreasing) order or not.
+[Solution](src/striverAtoZ/array/isArraySorted.java)
+* Question 4: Given an integer array sorted in non-decreasing order, remove the duplicates in place such that each unique element appears only once.
+[Solution](src/striverAtoZ/array/RemoveDuplicates.java)
+* Question 5: Given an array of N integers, left rotate the array by one place.
+[Solution](src/striverAtoZ/array/LeftRotate.java)
+* Question 6: Given an array of N integers, left rotate the array by K place.
+[Solution](src/striverAtoZ/array/LeftRotate.java)
+* Question 7: You are given an array of integers, your task is to move all the zeros in the array to the end of the array and move non-negative integers to the front by maintaining their order.
+[Solution](src/striverAtoZ/array/MoveZeros.java)
+* Question 8: Given an array, and an element num the task is to find if num is present in the given array or not. If present print the index of the element or print -1.
+[Solution](src/striverAtoZ/array/LinearSearch.java)
+* Question 9: Given two sorted arrays, arr1, and arr2 of size n and m. Find the union of two sorted arrays.
+[Solution](src/striverAtoZ/array/UnionArray.java)
+* Question 10: Given an integer N and an array of size N-1 containing N-1 numbers between 1 to N. Find the number(between 1 to N),
+[Solution](src/striverAtoZ/array/MissingNumber.java)
+* Question 11: Given an array that contains only 1 and 0 return the count of maximum consecutive ones in the array.
+[Solution](src/striverAtoZ/array/ConsecutiveOnes.java)
